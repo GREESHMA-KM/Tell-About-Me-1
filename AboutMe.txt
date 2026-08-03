@@ -1,0 +1,31 @@
+Name:- Sanjay R.
+
+Department & Year:- Bachelor of Engineering (B.E.) in Electronics and Communication Engineering (ECE), Fourth Year
+
+College:- Coorg Institute of Technology
+
+Hometown:- Kushalnagar, Kodagu, Karnataka
+
+Skills:-
+
+* C Programming
+* Python (Basics)
+* Arduino
+* Raspberry Pi
+* Digital Electronics
+* Embedded Systems
+* VLSI Fundamentals
+* Robotics
+
+Hobbies:-
+
+* Building electronics and embedded system projects
+* Learning about new technologies
+* Exploring VLSI and robotics
+* Watching technical tutorials and experimenting with hardware
+
+Career Goal:-
+My career goal is to become a VLSI Design Engineer while continuously expanding my knowledge of embedded systems and robotics. I aspire to contribute to the semiconductor industry by designing innovative, efficient, and reliable electronic systems.
+
+One Interesting Fact About Yourself:-
+I enjoy learning by building real-world electronics projects. I believe the best way to understand technology is to design, test, and improve practical hardware solutions.
