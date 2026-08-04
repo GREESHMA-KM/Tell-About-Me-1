@@ -1,0 +1,7 @@
+Name: GREESHMA K M
+Department and year: ECE, 4th year
+College: CIT
+Hometown: Napoklu
+Skills: Python basics, VLSI basics
+Hobbies: Reading, Music, Dancing, Sketching
+Career goal: Electronics engineer
